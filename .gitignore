@@ -4,6 +4,7 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 playwright/.auth
+**/.DS_Store
 
 # Environment
 .env
